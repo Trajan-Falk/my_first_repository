@@ -8,3 +8,4 @@ Part 3: Tracking changes with git
 * This is what we are working on now
 
 Part 4: Exploring history
+Part 5: Pulling repositories from github
